@@ -3,4 +3,4 @@
 Organized by topic.
 
 ## Arrays (2)
-## Dynamic Programming (1)
+## Dynamic Programming (2)
