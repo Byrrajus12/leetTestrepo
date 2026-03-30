@@ -2,6 +2,7 @@
 # Difficulty: Medium
 # Topics: Array, Dynamic Programming, Breadth First Search
 # URL: https://leetcode.com/problems/coin-change/
+# Submitted At: 2026-03-30T22:10:49.427Z
 
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
@@ -16,5 +17,4 @@ class Solution:
             for coin in coins:
                 if amt - coin >= 0:
                     dp[amt] = min(dp[amt], 1 + dp[amt - coin])
-        print(dp[amount])
         return dp[amount] if dp[amount] != (amount+1) else -1
