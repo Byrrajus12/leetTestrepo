@@ -7,7 +7,6 @@ class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         dp = [amount+1] * (amount+1)
         dp[0] = 0
-        # for each amount from 1 to our amount
         for amt in range(1, amount+1):
             # we want to go through each coin and see how it helps and how many at minimum we need to get that amount
             # if the diff b/w amt and the certain coin is >= 0 then we store that value
