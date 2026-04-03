@@ -2,5 +2,5 @@
 
 Organized by topic.
 
-## Arrays (2)
+## Arrays (3)
 ## Dynamic Programming (2)
