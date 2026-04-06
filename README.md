@@ -2,6 +2,6 @@
 
 Organized by topic.
 
-## Arrays (3)
+## Arrays (4)
 ## Dynamic Programming (2)
 ## Strings (1)
