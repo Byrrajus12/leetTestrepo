@@ -2,7 +2,7 @@
 
 Organized by topic.
 
-## Arrays (4)
+## Arrays (5)
 ## Design (1)
 ## Dynamic Programming (2)
 ## Strings (1)
