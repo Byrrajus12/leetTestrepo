@@ -2,7 +2,7 @@
 
 Organized by topic.
 
-## Arrays (7)
+## Arrays (8)
 ## Backtracking (1)
 ## Design (1)
 ## Dynamic Programming (2)
