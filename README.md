@@ -7,4 +7,4 @@ Organized by topic.
 ## Design (1)
 ## Dynamic Programming (2)
 ## Math (1)
-## Strings (1)
+## Strings (2)
